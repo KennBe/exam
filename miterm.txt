@@ -4,8 +4,7 @@ hello
 
 nagkaon naka?
 
-<<<<<<< HEAD
+
 humana
-=======
-wapa
->>>>>>> 29c5b6fbf306baec6901d148aa23159879941fa4
+
+
